@@ -6,12 +6,12 @@ Stay updated with real-time gas prices across **every province and city** in Can
 [![Check Today’s Canada Gas Prices Now](https://img.shields.io/badge/Check%20Today%E2%80%99s%20Canada%20Gas%20Prices%20-red?style=for-the-badge&logo=aircanada)](https://canadagasprice.hindrise.com/)
 
 ## Table of Contents 📋
-- [About Gas Prices in Canada](#about-gas-prices-in-canada)  
-- [Why Gas Prices Matter](#why-gas-prices-matter)  
-- [Top Features of This Platform](#top-features-of-this-platform)  
-- [How to Save on Gas Costs](#how-to-save-on-gas-costs)  
+- [About Gas Prices in Canada](#about-gas-prices-in-canada-)  
+- [Why Gas Prices Matter](#why-gas-prices-matter-)  
+- [Top Features of This Platform](#top-features-of-this-platform-)  
+- [How to Save on Gas Costs](#how-to-save-on-gas-costs-)  
 - [FAQs](#faqs)  
-- [Stay Updated](#stay-updated)
+- [Stay Updated](#stay-updated-)
 
 ## About Gas Prices in Canada 🔍
 
@@ -35,7 +35,7 @@ Tracking gas prices isn’t just about saving a few cents. Here’s why it’s c
 
 ♦️ **[Find Out the Best Gas Prices in Your Area](https://canadagasprice.hindrise.com/)**  
 
-## 🌟 Top Features of This Platform  
+### Top Features of This Platform 🌟
 
 | Feature                | Benefit                                                                                       |  
 |------------------------|-----------------------------------------------------------------------------------------------|  
@@ -75,7 +75,7 @@ We use data from trusted sources to provide **real-time updates** that reflect t
 Yes! Prices can vary significantly within a city due to factors like competition among stations, traffic levels, and neighborhood demand.  
 
 [![Visit the Full Gas Price Tracker](https://img.shields.io/badge/Visit%20the%20Full%20Gas%20Price%20Tracker-red?style=for-the-badge&logo=aircanada)](https://canadagasprice.hindrise.com/)
-## 🌟 Stay Updated  
+## Stay Updated 🌟
 
 💡 Want to stay ahead of gas price changes?  
 Bookmark this page and visit **[Canada Gas Price Today](https://canadagasprice.hindrise.com/)** daily to make smarter decisions.  
